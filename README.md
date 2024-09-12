@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a **Full Stack Developer** with experience in building web and mobile applications. I am passionate about crafting high-quality software solutions and constantly learning new technologies to improve my skills. I enjoy working on challenging projects that solve real-world problems.
+I'm a budding **Full Stack Developer** with experience in building web and mobile apps. I’m passionate about learning new technologies and constantly improving my skills. As I start out in my career, I’m excited to work on projects that solve real-world problems and offer the chance to learn from others and grow as a developer. I enjoy tackling challenges and being part of a team that creates innovative software.
 
 🌐 **Check out my portfolio:** [ellen-daly-portfolio.netlify.app](https://ellen-daly-portfolio.netlify.app/)
 

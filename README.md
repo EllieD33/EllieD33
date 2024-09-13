@@ -50,12 +50,12 @@ Here are some of the projects I've worked on:
 ### Project 3: **Walking West Yorkshire**
 - **Description:** A dynamic, responsive website dedicated to exploring the picturesque walks of West Yorkshire! This project features a user-friendly front end built with Bootstrap 5, ensuring an adaptive design that looks great on all devices. The frontend leverages HTML5 for structure and JavaScript for form functionality, including validation and modal confirmations.
 - **Frontend Repo:** [walking-west-yorkshire-frontend](https://github.com/EllieD33/Walking-Website-Responsive)
-- **Live Demo:** [walking-west-yorkshire-site](https://ellied33.github.io/Walking-Website-Responsive/index.html)
+- **Live Site:** [walking-west-yorkshire-site](https://ellied33.github.io/Walking-Website-Responsive/index.html)
 
 ### Project 4: **Yaniv Scoreboard**
 - **Description:** A frontend app built using React.js and Tailwind. Yaniv is a card game I play often with my family, but keeping score can feel like a chore - so I built this clean, simple app to solve the problem. Player names can be customised, while the logic under the hood implements scoring rules automatically and declares a winner. With the app, score keeping is easy! Have a read of the rules page so you can play too!
 - **Frontend Repo:** [yaniv-frontend](https://github.com/EllieD33/yaniv-app)
-- **Live Demo:** [yaniv-app](https://yaniv-scoreboard.netlify.app//)
+- **Live Site:** [yaniv-app](https://yaniv-scoreboard.netlify.app//)
 
 Feel free to explore the repositories to see the source code and documentation for each project!
 

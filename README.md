@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a budding **Full Stack Developer** with experience in building web and mobile apps. I’m passionate about learning new technologies and constantly improving my skills. As I start out in my career, I’m excited to work on projects that solve real-world problems and offer the chance to learn from others and grow as a developer. I enjoy tackling challenges and being part of a team that creates innovative software.
+I'm a **Full Stack Developer** with experience in building web and mobile apps. I’m passionate about learning new technologies and constantly improving my skills. As I start out in my career, I’m excited to work on projects that solve real-world problems and offer the chance to learn from others and grow as a developer. I enjoy tackling challenges and being part of a team that creates innovative software.
 
 🚧🔨 **Currently Building a Database and API Programmatically in C#**: I'm expanding my skills by developing a database and API from scratch using C#. Feel free to check out my [work-in-progress](https://github.com/EllieD33/celebration-reminder-api) for more details!
 

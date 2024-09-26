@@ -59,6 +59,10 @@ Here are some of the projects I've worked on:
 - **Frontend Repo:** [yaniv-frontend](https://github.com/EllieD33/yaniv-app)
 - **Live Site:** [yaniv-app](https://yaniv-scoreboard.netlify.app//)
 
+### Project 5: **CopyTabUrls Firefox Extension**
+- **Description** A Firefox extension built using JavaScript in Manifest v2. CopyTabUrls is a Firefox extension that simplifies copying URLs from open tabs with enhanced customisation options for better organisation. Users can include page titles, group URLs by domain, and filter results based on active tabs or HTTP/HTTPS links. The extension supports multiple output formats, including Plain Text, Markdown, JSON, and CSV. Additional features include customisable notifications, automatic theme switching, and the ability to remember last-used preferences for a smoother experience.
+- **Repo:** [CopyTabUrls](https://github.com/EllieD33/copy-tab-urls)
+
 Feel free to explore the repositories to see the source code and documentation for each project!
 
 ## 🛠️ Languages and Tools
